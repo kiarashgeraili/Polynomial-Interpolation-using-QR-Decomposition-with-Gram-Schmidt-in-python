@@ -1,4 +1,4 @@
-#QR-Decomposition-with-Gram-Schmidt
+# Polynomial Interpolation using QR Decomposition with Gram-Schmidt in python
 #Kiarash Geraili, Computer Science student at Amirkabir University of Technology
 
 implementing QR Decomposition with Gram-Schmidt in python (without using the built-in function)
